@@ -1,0 +1,3 @@
+# Funny-JavaCalculator
+
+THIS REPOSITORY IS FOR LEARNING PURPOSES.
